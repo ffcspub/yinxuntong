@@ -64,6 +64,14 @@
     
 }
 
+#pragma mark - button
+
+- (IBAction)userAction:(id)sender {
+    
+    
+}
+
+
 
 #pragma mark - ImagePlayerViewDelegate
 - (NSInteger)numberOfItems
